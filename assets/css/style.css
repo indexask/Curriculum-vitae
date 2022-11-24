@@ -1,0 +1,21 @@
+table th,td{
+    border:solid 2px;
+}
+th{
+    padding: 20px;
+}
+body{
+    padding-left: 300px;
+    padding-right: 300px;
+    border: solid 10px;
+    border-color: black;
+}
+.titulo2{
+    text-align: center;
+}
+.img1{
+    padding-left: 630px;
+}
+table{
+    padding-left: 26%;
+}
